@@ -9,7 +9,7 @@ My name is Jameson Carter and I am a researcher with a strong interest in civic 
 Through this class, I hope to learn how to incorporate design principles into my future visualizations. While working for CRS I made several okay-to-bad graphs although I learned a lot along the way. After graduating, I would like to apply data science to help communities solve problems equitably. Being able to communicate data scientific results visually is highly important to this sort of work.
 
 # Portfolio
-
+The following sections contain the work I completed for this course. 
 ## Assignment 1
 
 ## Assignment 2
