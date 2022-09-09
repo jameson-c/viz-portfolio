@@ -1,4 +1,4 @@
-### Government debt in Greece was 2x the average among OECD member-states in the European Union 
+### During 2020, Greece's debts were 2x the average among OECD member-states in the European Union 
 
 <iframe 
         src="https://data.oecd.org/chart/6Obf" 
