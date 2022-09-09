@@ -12,7 +12,8 @@ Through this class, I hope to learn how to incorporate design principles into my
 The following sections contain the work I completed for this course. 
 ## Assignment 1
 ### Part 1: Debt among OECD member-states in the European Union
-[See the following](<iframe src="https://data.oecd.org/chart/6Oba" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Oba" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>)
+
+<iframe src="https://data.oecd.org/chart/6Oba" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Oba" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 ## Assignment 2
 
