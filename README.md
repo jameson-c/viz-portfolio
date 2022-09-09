@@ -10,8 +10,8 @@ Through this class, I hope to learn how to incorporate design principles into my
 
 # Portfolio
 The following sections contain the work I completed for this course. 
-## Assignment 1
-* [Visualizing OECD member-states in the European Union](https://jameson-c.github.io/viz-portfolio/assignment_1.html)
+## Assignment 1: Visualizing government debt in 2020
+* [Among OECD member-states in the European Union](https://jameson-c.github.io/viz-portfolio/assignment_1.html)
 
 ## Assignment 2
 
