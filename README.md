@@ -11,7 +11,8 @@ Through this class, I hope to learn how to incorporate design principles into my
 # Portfolio
 The following sections contain the work I completed for this course. 
 ## Assignment 1: Visualizing government debt in 2020
-[See the following page for this exploration](https://jameson-c.github.io/viz-portfolio/assignment_1.html)
+For this assignment, we were asked to use Flourish.io to generate some visualizations tracking government debt.
+See the [following page](https://jameson-c.github.io/viz-portfolio/assignment_1.html)for this exploration.
 
 ## Assignment 2
 
