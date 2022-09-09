@@ -1,6 +1,3 @@
-# Assignment: Visualizing government debt in 2020
-The following visualization uses data from the OECD to examine government debt in 2020, the year that the COVID-19 pandemic started.
-
 ### Government debt in Greece was 2x the average among OECD member-states in the European Union 
 
 <iframe 
