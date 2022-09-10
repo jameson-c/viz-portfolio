@@ -1,5 +1,6 @@
 # Assignment 1: Visualizing government debt in 2020
 
+## Part 1- Examining 2020 data
 ### During 2020, Greece's debts (as a % of GDP) were 2x the average among OECD member-states in the European Union 
 
 <iframe 
@@ -15,5 +16,7 @@
         </a
 ></iframe>
 
-###
+## Part 2- Taking a look at the historical context
 <div class="flourish-embed flourish-chart" data-src="visualisation/11148552"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Part 3- Re-visualizing 
