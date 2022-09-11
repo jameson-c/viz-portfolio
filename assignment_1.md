@@ -1,6 +1,7 @@
 # Assignment 1: Visualizing government debt in 2020
 
 ## Part 1- Examining 2020 data
+This first graphic shows that among OECD member-states in the European Union, debts as a % of GDP were highest in Greece. 
 ### During 2020, Greece's debts (as a % of GDP) were 2x the average among OECD member-states in the European Union 
 
 <iframe 
@@ -23,3 +24,12 @@ The following graph highlights the historical context of Greece's high debt load
 ## Part 3- Taking a look at the geographic distribution
 The following graph highlights the geographic context of countries with high debt loads as a proportion of their productivity. Most of these nations appear to be located in Southern Europe, although data is not displayed for many nations on the Balkan Peninsula.
 <div class="flourish-embed flourish-map" data-src="visualisation/11152264"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Part 4- Examining these visualizations and their source
+The data displayed on this page track "general government debt ratios" (defined by the OECD (here)[https://data.oecd.org/gga/general-government-debt.htm]) which measure the gross debt a government possesses as a percentage of GDP. It is broadly considered an indicator of how sustainable a government's finances are: high debt-to-GDP ratios are considered unsustainable. It is calculated as:
+![equation](https://latex.codecogs.com/svg.image?\frac{\textup{Currency&space;and&space;Deposits}&space;&plus;&space;\textup{Debt&space;Securities&space;and&space;Loans}&space;&plus;&space;\textup{Insurance,&space;Pensions,&space;and&space;Standardized&space;Guarantees}&space;&plus;&space;\textup{Other&space;Accounts&space;Payable}}{\textup{Gross&space;Domestic&space;Product})
+
+The bar chart tells the audience one basic piece of information: that Greece had unusually high debt-to-GDP ratios in 2020 as compared to the OECD average. The sparkline chart substantiates this observation with trends of the past 13 years. It also shows that the top 5 countries with relatively high debt loads as a % of GDP have similar histories and that they consistently, as a group, are more endebted than other OECD nations on average. This is a useful development because 2020 was a chaotic year and it stands to reason that the single-year data are not reflective of broader trends. Not only did this chart reveal that Greece is consistently above the OECD average, but also that debts spiked in 2020. Then, I chose to map the nations with high debt loads to see if there was a consistent geographic trend. The resulting map (which I generated using colorblind-aware palettes via (Colorbrewer2)[Colorbrewer2.org]) showed that many of these nations were in Southern Europe and further clarifies that many nations are missing from my evaluations.
+
+
+
