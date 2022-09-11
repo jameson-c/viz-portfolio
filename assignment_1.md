@@ -19,4 +19,5 @@
 ## Part 2- Taking a look at the historical context
 <div class="flourish-embed flourish-chart" data-src="visualisation/11148552"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Part 3- Re-visualizing 
+## Part 3- How about averages?
+<div class="flourish-embed flourish-chart" data-src="visualisation/11148594"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
