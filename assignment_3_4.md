@@ -1,16 +1,16 @@
 # Assignment 3/4: Critique by Redesign
 To return to the front page, click [here](https://jameson-c.github.io/viz-portfolio).
-## Identifying and critiquing a bad graph (that I made)
+## Critiquing a bad graph (that I made)
 This graphic was made for congressional staffers who were working on the big 'farm' bill of the 115th Session of Congress. These bills are only passed every 5 years and have important implications for the SNAP program (also known as food stamps, colloquially). Many of the debates around this time centered around preventing fraud in the program and, because the issue was of congressional interest, my supervisor authored [Errors and Fraud in the Supplemental Nutrition Assistance Program](https://crsreports.congress.gov/product/pdf/R/R45147). I was enlisted to help design data visualizations and perform some general research assistance duties. This graph was meant to give staffers a clear initial view of some seriously overlooked perpetrators of fraud in the program: convenience store retailers. 
 
 ![Screenshot](A_bad_graph.png)
 
 
-Oof. This graphic has haunted me ever since it was published (you can download a copy of the report ). It hurts to look at. But why? To properly critique this, I utilize Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) as a framework:
+Oof. This graphic has haunted me ever since it was published. It hurts to look at. But why? To properly critique this, I utilize Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) as a framework. Overall, I felt that the chart conveyed important, relevant information yet failed to do so in a compelling manner. I would do a lot of things differently: namely reduce the amount of information communicated and focus on one important series instead of three. My explorations below describe my justifications for this, as well as occasional silver linings that I feel could be exploited to make a more compelling graph.
 
 ![Screenshot](Design_Effectiveness_Profile.png )
 
-Next, I will describe *why* I gave the ratings shown above. Overall, I felt that the chart conveyed important, relevant information yet failed to do so in a compelling manner. I would do a lot of things differently: namely reduce the amount of information communicated and focus on one important series instead of three. My explorations below describe my justifications for this, as well as occasional silver linings that I feel could be exploited to make a more compelling graph.
+Next, I will describe *why* I gave the ratings shown above. 
 
 ### Usefulness
 This data visualization has entirely too much going on, though the core of it is useful. I felt that the usefulness was somewhat good because it communicates information relevant to some essential points of the piece: that benefit trafficking perpetuated by retailers has been increasing at convenience stores and that convenience stores have comprised larger shares and numbers of SNAP-approved retailers. The implication of this is that Congress could focus on reforming standards applied to convenience stores if they want to address fraud among retailers. But the usefulness of that context is muddied by the business of the chart. 
@@ -39,5 +39,5 @@ I think that it was ineffective because many congressional staffers are strapped
 
 To play devil's advocate, it is not the purpose of CRS to communicate stories, necessarily. CRS is meant to provide objective, authoritative perspectives on relevant topics. The natural restrictions of that ideal strip personality from the work. Still, I think that this graphic could have been improved vastly and retained CRS style.
 
-## What do we do next?
-Finally, I feel like I would change this visualization significantly. First, I would cut the visualization down to just show the most recent year of data (now 2015-2017) and push the rest of the information of previous years to the appendix. Then, I would make a treemap which compares the volume of trafficking contributed by convenience stores vs. other stores: this would give the reader a sense of what proportion of all trafficked snap dollars are attributable to convenience stores, while retaining a sense of total volume. I am not sure about this choice since you lose other important context, but I think that you have to focus on one thing at a time and I am under the impression that staffers care more about reducing large volumes of fraud over small volumes. 
+## The Redesign
+This framework informs how I plan on re-designing this graphic. First, I will cut the visualization down to just show the most recent year of data (now 2015-2017) and push previous years to the appendix (a popular trick at CRS and many thinktanks, I suspect). Then, I will make a treemap which compares the volume of trafficking contributed by convenience stores vs. other stores: this gives the reader a sense of what proportion of all trafficked SNAP dollars are attributable to convenience stores, while retaining a sense of total volume. I am not sure about this choice since you lose other important context, but I think that you have to focus on one thing at a time and I am under the impression that staffers care more about reducing large volumes of fraud over small volumes. 
