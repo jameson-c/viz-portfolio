@@ -1,9 +1,9 @@
 # Assignment 3/4: Redesign
 To return to the front page, click [here](https://jameson-c.github.io/viz-portfolio).
 ## Identifying and critiquing a bad graph (that I helped make)
-![Screenshot](A_bad_graph.png)
+![Screenshot](A_bad_graph.png | width=100)
 
-![Screenshot](Design_Effectiveness_Profile.png | width=100)
+![Screenshot](Design_Effectiveness_Profile.png )
 This data visualization has entirely too much going on, though the core of it is useful. I felt that the usefulness was somewhat good because it communicates information relevant to some essential points of the piece: that benefit trafficking perpetuated by retailers has been increasing at convenience stores and that convenience stores have comprised larger shares and numbers of SNAP-approved retailers. The implication of this is that Congress (this report was produced for Congressional offices) could focus on reforming standards applied to convenience stores if they want to address fraud among retailers. But the usefulness of that context is muddied by the business of the chart. 
 
 The only other standard that I felt this graphic did okay with was truthfulness: the y axis begins at 0, and every data point is clearly labeled. The accuracy of the bar charts seems fine to me. However, the second axis for the trafficking and violation rates is hidden and it is hard to know how accurate the depiction of those rates really is. So the line chart element of this does not pass the accuracy test. Both graphical presentations pass the validity test, as the graphic is informing a very specific policy context and does so with little subjective flavor. Overall, I trust the numbers cited as the Congressional Research Service is a nonpartisan federal think-tank that works exclusively for Congress. The USDA report it is citing is heavily reviewed before release and is released on a regular basis.
