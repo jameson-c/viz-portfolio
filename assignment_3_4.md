@@ -51,33 +51,49 @@ The first sketch was in the top left and included 5 categories, alongside some a
 To better understand what this graphic was accomplishing, I interviewed two of my fellow students.
 Student: 20s
 - What is the first thing you see in this chart?
+
 The color orange, different sized rectangles. Didn’t notice the gradient.
 - Can you tell me what you think this is?
+
 Looks like the total trafficked SNAP benefits by kind of store.
 - Can you describe to me what this is telling you?
+
 It’s saying that convenience stores have the highest amount of trafficked benefits. It’s less clear based on the size of the rectangles on the right what is largest, and it appears that the rectangles aren’t correctly sized. The title is helpful for guiding that thought.
 - Does this make you think of a follow-up question? 
+
 What percentage of all people receiving SNAP benefits are using each kind of store? I am interested in seeing what the average total benefits are disbursed vs. trafficked.
 - Is there anything you find surprising or confusing?
+
 It’s surprising that large stores don’t have more trafficked benefits considering the sheer number of people who use them as compared to other stores. 
 - Who do you think is the intended audience for this?
+
 Intended audience is industry professionals, maybe USDA? People who know about this program and help manage it.
 - Is there anything you would change or do differently?
+
 Make the boxes more proportional to the numbers in them. Likes the gradient, though didn’t notice it right away. A stronger color would be more obvious so it would work better.
 
 Student: 30s
 - What is the first thing you see in this chart?
+
 A treemap, then sees a big section of the map dedicated to convenience stores
 - Can you tell me what you think this is?
+
 A graphic of how much money was spent by SNAP recipients and where they spent it.
 - Can you describe to me what this is telling you?
+
 There is $1.2 billion spent, half spent in convenience stores and the rest spent elsewhere.
 - Does this make you think of a follow-up question? 
+
 Why is so much SNAP being spent at convenience stores at not regular stores?
 - Is there anything you find surprising or confusing?
+
 I am confused about proportion of money trafficked at convenience stores.
 - Who do you think is the intended audience for this?
+
 Policymakers
 - Is there anything you would change or do differently?
+
 It is a good way to highlight convenience stores if that is the aim.
+
+Reflecting on these conversations, it seems like the chart is doing what it aims to do and points of confusion seem to be more about the policy implications of this point than design related mis-interpretations. Interestingly, it seemed like there was a desire to see even more data than what was already shown. Maybe a national comparison could prove useful here. I think that the title did a good job of priming their interpretations, although the gradient did not seem to do much. Engagement seemed high as some interesting questions arose from the talk. 
 
