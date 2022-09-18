@@ -1,9 +1,16 @@
 # Assignment 3/4: Redesign
 To return to the front page, click [here](https://jameson-c.github.io/viz-portfolio).
-## Identifying and critiquing a bad graph (that I helped make)
-![Screenshot](A_bad_graph.png | width=100)
+## Identifying and critiquing a bad graph (that I made)
+This graphic was made for congressional staffers who were working on the big 'farm' bill of the 115th Session of Congress. These bills are only passed every 5 years and have important implications for the SNAP program (also known as food stamps, colloquially). Many of the debates around this time centered around preventing fraud in the program (I know this because I covered said debates) and this was meant to give staffers a clear initial view of some seriously overlooked perpetrators of fraud in the program: convenience store retailers. 
+
+![Screenshot](A_bad_graph.png)
+Source: [Errors and Fraud in the Supplemental Nutrition Assistance Program (SNAP)](https://jameson-c.github.io/viz-portfolio](https://crsreports.congress.gov/product/pdf/R/R45147)
+Oof. This graphic has haunted me ever since it was published (you can download a copy of the report ). It hurts to look at. But why? To properly critique this, I utilize Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) as a framework:
 
 ![Screenshot](Design_Effectiveness_Profile.png )
+
+Next, I will describe *why* I gave the ratings shown above. 
+
 This data visualization has entirely too much going on, though the core of it is useful. I felt that the usefulness was somewhat good because it communicates information relevant to some essential points of the piece: that benefit trafficking perpetuated by retailers has been increasing at convenience stores and that convenience stores have comprised larger shares and numbers of SNAP-approved retailers. The implication of this is that Congress (this report was produced for Congressional offices) could focus on reforming standards applied to convenience stores if they want to address fraud among retailers. But the usefulness of that context is muddied by the business of the chart. 
 
 The only other standard that I felt this graphic did okay with was truthfulness: the y axis begins at 0, and every data point is clearly labeled. The accuracy of the bar charts seems fine to me. However, the second axis for the trafficking and violation rates is hidden and it is hard to know how accurate the depiction of those rates really is. So the line chart element of this does not pass the accuracy test. Both graphical presentations pass the validity test, as the graphic is informing a very specific policy context and does so with little subjective flavor. Overall, I trust the numbers cited as the Congressional Research Service is a nonpartisan federal think-tank that works exclusively for Congress. The USDA report it is citing is heavily reviewed before release and is released on a regular basis.
@@ -21,8 +28,6 @@ Finally, engagement. Because the chart gives no discernible direction in the tit
 In conclusion, I felt that the chart conveyed important, relevant information yet failed to do so in a compelling manner. I would do a lot of things differently: namely reduce the amount of information communicated and focus on one important series instead of three. My explorations above describe my justifications for this, as well as the occasional silver linings that I feel could be exploited to make a more compelling graph.
 
 ## Reflections on the intended audience
-The primary audience for this tool is congressional staffers who were working on the big 'farm' bill of the 115th Session of Congress. These bills are only passed every 5 years and have important implications for the SNAP program (also known as food stamps, colloquially). Many of the debates around this time centered around preventing fraud in the program (I know this because I covered the debates, and worked a bit on this paper), and this was meant to give staffers a clear initial view of some seriously overlooked perpetrators of fraud in the program: retailers. Convenience stores being the worst offenders. 
-
 I think that it was ineffective because many congressional staffers are strapped for time and the chart was convoluted. On Capitol Hill, you work long hours when your issue is being legislated on. Quick insights are extremely useful; drawn out perspectives can often fall to the wayside. So I imagine that many staffers read the executive summary of the report, went down an saw this first graphic, then probably got confused and indexed to the section that was relevant to them. Because it lacked clarity, I feel that it was thrown aside.
 
 To play devil's advocate, it is not the purpose of CRS to communicate stories, necessarily. CRS is meant to provide objective, authoritative perspectives on relevant topics. The natural restrictions of that ideal strip personality from the work. Still, I think that this graphic could have been improved vastly and retained CRS style.
