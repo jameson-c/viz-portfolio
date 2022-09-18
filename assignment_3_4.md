@@ -42,5 +42,42 @@ To play devil's advocate, it is not the purpose of CRS to communicate stories, n
 ## The Redesign
 This framework informs how I plan on re-designing this graphic. First, I will cut the visualization down to just show the most recent year of data (now 2015-2017) and push previous years to the appendix (a popular trick at CRS and many thinktanks, I suspect). Then, I will make a treemap which compares the volume of trafficking contributed by convenience stores vs. other stores: this gives the reader a sense of what proportion of all trafficked SNAP dollars are attributable to convenience stores, while retaining a sense of total volume. I am not sure about this choice since you lose other important context, but I think that you have to focus on one thing at a time and I am under the impression that staffers care more about reducing large volumes of fraud over small volumes. 
 
-Next, I sketch some wireframes to help guide my process (apologies for my terrible handwriting):
+Next, I sketch some wireframes to help guide my process (apologies for terrible handwriting):
+
 <a href="url"><img src="wf1.jpg" align="center" width="450" ></a> <a href="url"><img src="wf2.jpg" align="center" width="450" ></a>
+
+The first sketch was in the top left and included 5 categories, alongside some annotations about the total summed value of all trafficking in the program. I made the title a bit more clear and added some color gradients that mapped to the size of the square. This highlights convenience stores and helps guide the eye toward that category. At this point, I felt it was worth reducing the number of categories by combining small and medium-sized groceries together. Also I felt that it was worth considering a stacked bar chart. So I mocked up a version with a bar chart, but I did not like the concept as much. I felt like the treemap gave a better sense of proportional size. So, I finally stuck with the orange treemap with 4 categories. This looked cleanest to me, so I did some user research.
+### Feedback on the orange chart
+To better understand what this graphic was accomplishing, I interviewed two of my fellow students.
+Student: 20s
+- What is the first thing you see in this chart?
+The color orange, different sized rectangles. Didn’t notice the gradient.
+- Can you tell me what you think this is?
+Looks like the total trafficked SNAP benefits by kind of store.
+- Can you describe to me what this is telling you?
+It’s saying that convenience stores have the highest amount of trafficked benefits. It’s less clear based on the size of the rectangles on the right what is largest, and it appears that the rectangles aren’t correctly sized. The title is helpful for guiding that thought.
+- Does this make you think of a follow-up question? 
+What percentage of all people receiving SNAP benefits are using each kind of store? I am interested in seeing what the average total benefits are disbursed vs. trafficked.
+- Is there anything you find surprising or confusing?
+It’s surprising that large stores don’t have more trafficked benefits considering the sheer number of people who use them as compared to other stores. 
+- Who do you think is the intended audience for this?
+Intended audience is industry professionals, maybe USDA? People who know about this program and help manage it.
+- Is there anything you would change or do differently?
+Make the boxes more proportional to the numbers in them. Likes the gradient, though didn’t notice it right away. A stronger color would be more obvious so it would work better.
+
+Student: 30s
+- What is the first thing you see in this chart?
+A treemap, then sees a big section of the map dedicated to convenience stores
+- Can you tell me what you think this is?
+A graphic of how much money was spent by SNAP recipients and where they spent it.
+- Can you describe to me what this is telling you?
+There is $1.2 billion spent, half spent in convenience stores and the rest spent elsewhere.
+- Does this make you think of a follow-up question? 
+Why is so much SNAP being spent at convenience stores at not regular stores?
+- Is there anything you find surprising or confusing?
+I am confused about proportion of money trafficked at convenience stores.
+- Who do you think is the intended audience for this?
+Policymakers
+- Is there anything you would change or do differently?
+It is a good way to highlight convenience stores if that is the aim.
+
