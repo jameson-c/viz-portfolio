@@ -97,3 +97,10 @@ It is a good way to highlight convenience stores if that is the aim.
 
 Reflecting on these conversations, it seems like the chart is doing what it aims to do and points of confusion seem to be more about the policy implications of this point than design related mis-interpretations. Interestingly, it seemed like there was a desire to see even more data than what was already shown. Maybe a national comparison could prove useful here. I think that the title did a good job of priming their interpretations, although the gradient did not seem to do much. Engagement seemed high as some interesting questions arose from the talk. 
 
+### Redesign
+From this exploration, I made the following flourish chart: 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11194601"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+But I was still feeling like I needed to contextualize how few SNAP dollars are trafficked every year. Trafficking has some negative connotations (though it is a term of art). These convenience stores need to be highlighted but the story should not be that, "SNAP is a bad program, just look at all of the waste!" So I explored this tool in Flourish known as a data story to display two stories in one:
+<div class="flourish-embed" data-src="story/1686553"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
