@@ -16,7 +16,9 @@ For this assignment, we were asked to use [Flourish](https://flourish.studio/) t
 See the [following page](https://jameson-c.github.io/viz-portfolio/assignment_1.html) for this exploration.
 
 ## Assignment 2
+For this assignment, we were asked to redesign a chart that we felt could be improved. I made the brave choice to critique a bad chart that I made in my work with the Congressional Research Service.
 
+See the [following page](https://jameson-c.github.io/viz-portfolio/assignment_3_4.html) for this redesign.
 ## Assignment 3
 
 ## Assignment 4
