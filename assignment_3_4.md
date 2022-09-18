@@ -1,10 +1,11 @@
-# Assignment 3/4: Redesign
+# Assignment 3/4: Critique by Redesign
 To return to the front page, click [here](https://jameson-c.github.io/viz-portfolio).
 ## Identifying and critiquing a bad graph (that I made)
 This graphic was made for congressional staffers who were working on the big 'farm' bill of the 115th Session of Congress. These bills are only passed every 5 years and have important implications for the SNAP program (also known as food stamps, colloquially). Many of the debates around this time centered around preventing fraud in the program (I know this because I covered said debates) and this was meant to give staffers a clear initial view of some seriously overlooked perpetrators of fraud in the program: convenience store retailers. 
 
 ![Screenshot](A_bad_graph.png)
-Source: [Errors and Fraud in the Supplemental Nutrition Assistance Program (SNAP)](https://jameson-c.github.io/viz-portfolio](https://crsreports.congress.gov/product/pdf/R/R45147)
+Source: [Errors and Fraud in the Supplemental Nutrition Assistance Program](https://jameson-c.github.io/viz-portfolio](https://crsreports.congress.gov/product/pdf/R/R45147)
+
 Oof. This graphic has haunted me ever since it was published (you can download a copy of the report ). It hurts to look at. But why? To properly critique this, I utilize Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) as a framework:
 
 ![Screenshot](Design_Effectiveness_Profile.png )
