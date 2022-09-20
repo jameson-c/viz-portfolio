@@ -39,7 +39,7 @@ I think that it was ineffective because many congressional staffers are strapped
 
 To play devil's advocate, it is not the purpose of CRS to communicate stories, necessarily. CRS is meant to provide objective, authoritative perspectives on relevant topics. The natural restrictions of that ideal strip personality from the work. Still, I think that this graphic could have been improved vastly and retained CRS style.
 
-## The Redesign
+## The Redesign Process
 This framework informs how I plan on re-designing this graphic. First, I will cut the visualization down to just show the most recent year of data (now 2015-2017) and push previous years to the appendix (a popular trick at CRS and many thinktanks, I suspect). Then, I will make a treemap which compares the volume of trafficking contributed by convenience stores vs. other stores: this gives the reader a sense of what proportion of all trafficked SNAP dollars are attributable to convenience stores, while retaining a sense of total volume. I am not sure about this choice since you lose other important context, but I think that you have to focus on one thing at a time and I am under the impression that staffers care more about reducing large volumes of fraud over small volumes. 
 
 Next, I sketch some wireframes to help guide my process (apologies for terrible handwriting):
@@ -110,8 +110,7 @@ From this exploration, I made the following flourish chart:
 But I was still feeling like I needed to contextualize how few SNAP dollars are trafficked every year. Trafficking has some negative connotations (though it is a term of art). These convenience stores need to be highlighted but the story should not be that, "SNAP is a bad program, just look at all of the waste!" Originally, I wanted to produce a 'tree-in-tree' concept that allowed the user to examine both concepts at once. To imagine this concept, I produced the following wireframe:
 <a href="url"><img src="wf3.jpg" align="center" width="450" ></a>
 
-
-So I explored this tool in Flourish known as a data story to display two stories in one:
+However, I was unable to find a way of executing this plan in Tableau or Flourish. So I explored using data stories in Flourish to display two stories in one:
 <iframe src='https://flo.uri.sh/story/1686553/embed' 
         title='Interactive or visual content' 
         class='flourish-embed-iframe' 
@@ -120,4 +119,10 @@ So I explored this tool in Flourish known as a data story to display two stories
         style='width:100%;height:600px;' 
         sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/1686553/?utm_source=embed&utm_campaign=story/1686553' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
         
-
+Then I did this:
+<iframe src='https://flo.uri.sh/story/1688980/embed' 
+        title='Interactive or visual content' 
+        class='flourish-embed-iframe' 
+        frameborder='0' scrolling='no' 
+        style='width:100%;height:600px;' 
+        sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/1688980/?utm_source=embed&utm_campaign=story/1688980' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
