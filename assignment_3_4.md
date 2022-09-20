@@ -107,9 +107,8 @@ From this exploration, I made the following flourish chart:
         style='width:100%;height:600px;' 
         sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11194601/?utm_source=embed&utm_campaign=visualisation/11194601' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
         
-But I was still feeling like I needed to contextualize how few SNAP dollars are trafficked every year. Trafficking has some negative connotations (though it is a term of art). These convenience stores need to be highlighted but the story should not be that, "SNAP is a bad program, just look at all of the waste!" Originally, I wanted to produce a 'tree-in-tree' concept that allowed the user to examine both concepts at once:
-
-
+But I was still feeling like I needed to contextualize how few SNAP dollars are trafficked every year. Trafficking has some negative connotations (though it is a term of art). These convenience stores need to be highlighted but the story should not be that, "SNAP is a bad program, just look at all of the waste!" Originally, I wanted to produce a 'tree-in-tree' concept that allowed the user to examine both concepts at once. To imagine this concept, I produced the following wireframe:
+<a href="url"><img src="wf3.jpg" align="center" width="450" ></a>
 
 
 So I explored this tool in Flourish known as a data story to display two stories in one:
