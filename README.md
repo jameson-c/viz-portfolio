@@ -19,12 +19,11 @@ See the [following page](https://jameson-c.github.io/viz-portfolio/assignment_1.
 For this assignment, we were asked to redesign a chart that we felt could be improved. I made the brave choice to critique a bad chart that I made in my work with the Congressional Research Service.
 
 See the [following page](https://jameson-c.github.io/viz-portfolio/assignment_3_4.html) for this redesign.
-## Assignment 3
-
-## Assignment 4
 
 ## Final Project
+For this assignment, we prepared some initial ideas and viz concepts for the final project. My topic will be environmental justice in Pittsburgh.
 
+See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Part_I.html) for this redesign.
 ### Part 1
 
 ### Part 2
