@@ -43,15 +43,19 @@ The next souce I will utilize is data tracking large emitters of greenhouse gase
 Finally, I will be using [results from a paper](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-020-00584-z) published in Environmental Health, as a way of grounding these locational findings with actual outcomes in a person's health. Drawing the link will require a few different findings from this and other papers from the Environmental Justice literature. This part is quite important. I acknowledge that I may not be able to obtain a causal statement that reflects findings from my historical analysis, but I will be sure to make that known to the reader. My hope, in the least, is to drawn attention to the fact that many Black families are living close to industrial pollution sources, a path that was set for them by long-dead racist policymakers and industrialists. 
 
 ### Initial Wireframes and Plots
-Next, I will show some sketches mapping how I plan to convey my points, in the order I hope to convey them. This is mainly a design exercise which will help me determine how the story will flow. Also I have included a preliminary Tableau map. 
+Next, I will show some sketches mapping how I plan to convey my points, in the order I hope to convey them. This is mainly a design exercise which will help me determine how the story will flow. For the most part, I use Balsamiq to mock these charts up. Also I have included a preliminary Tableau map. Basically, I think that I want to keep the number of geographic representations to a minimum because it can be difficult to process too many maps at once. I want to reserve maps for only the points that I am most interested in showing geographically.
 
 #### Point 1: Areas with Black residents were given worse security grades by the surveyors
+I think that a donut chart works pretty well for this, but I will say I am a bit concerned about the data I am using for this. All I have is whether a district had Black residents, rather than an understanding of the total proportion of Black residents living in redlined areas. So maybe I need to reframe this in the final display.
 ##### Title: Black residents lived primarily in redlined areas
+![Screenshot](wffin1.png)
 
 #### Point 2: Many of the mentions in surveyor's notes about smoke occurred in Black areas.
 ##### Title: Surveyors' notes indicate that redlined areas were more likely to be industrial
 This is meant to act as a proxy, in some ways, of the actual zoning map used at the time. I have been unable to identify an industrial zoning map from 1923 and am instead armed only with recollections of the process and descriptions of the resulting map from a paper written in the 1970's. If I cannot find it, I will try to use the point about smoke in surveyor's notes. I am not sure how compelling the data will be. Of the redlined areas where smoke is mentioned or local mill employment is mentioned in the surveyor's notes, 20 are of poor security grade and most of these areas have at least some Black residents. The comparison here is that in white areas, smoke and living near a factory seems less likely according to the surveyors. 
+![Screenshot](wffin2.png)
 
+Another option could be to use two stacked bar charts. That might make this easier to compare across groups.
 #### Point 3: Today, industries are still located in these same areas
 ##### Title: Modern Large Emitters Are Located in Areas that were Redlined in the 1930's
 For this exercise, I opted to try and evaluate the relationship between redlining and environmental hazards in those communities. Normally I would not start with a full viz exercise but I wanted to get some practice in Tableau and get a better sense of the data. First, I obtained data tracking large emitters of greenhouse gases from the EPA's [FLIGHT database](https://ghgdata.epa.gov/ghgp/main.do#/facility/?q=Pittsburgh&st=PA&bs=&et=&fid=&sf=11001100&lowE=-20000&highE=23000000&g1=1&g2=1&g3=1&g4=1&g5=1&g6=0&g7=1&g8=1&g9=1&g10=1&g11=1&g12=1&s1=1&s2=1&s3=1&s4=1&s5=1&s6=1&s7=1&s8=1&s9=1&s10=1&s201=1&s202=1&s203=1&s204=1&s301=1&s302=1&s303=1&s304=1&s305=1&s306=1&s307=1&s401=1&s402=1&s403=1&s404=1&s405=1&s601=1&s602=1&s701=1&s702=1&s703=1&s704=1&s705=1&s706=1&s707=1&s708=1&s709=1&s710=1&s711=1&s801=1&s802=1&s803=1&s804=1&s805=1&s806=1&s807=1&s808=1&s809=1&s810=1&s901=1&s902=1&s903=1&s904=1&s905=1&s906=1&s907=1&s908=1&s909=1&s910=1&s911=1&si=&ss=&so=0&ds=E&yr=2020&tr=current&cyr=2020&ol=0&sl=0&rs=ALL). This is a proxy for what I will eventually end up mapping because different types of emissions are worse for human health than others. So I want to reflect that in the final map. Anyway, then I overlaid a map of the communities that were redlined in the 1930's, obtained by the [Mapping Inequality Project](https://dsl.richmond.edu/panorama/redlining/#loc=11/40.442/-80.172&city=pittsburgh-pa&text=downloads).
@@ -68,6 +72,10 @@ From here, I produced the following map:
   
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+#### Point 4: Black families continue to disproportionately live in areas that were redlined, near heavy industry.
+##### Title: Modern Large Emitters Are Located in Areas that were Redlined in the 1930's
+
+#### Point 5: Black folks disproportionately suffer from health effects of pollution.
 
 ### Method and Medium
 
