@@ -1,8 +1,8 @@
 # Final: Explorations of Environmental Justice in Pittsburgh
 To return to the front page, click [here](https://jameson-c.github.io/viz-portfolio).
 ## Background and Summary
-I am under the impression that many readers hold the topic of structural racism to higher requirements than other topics (which itself seems to be a reflection of structural racism). So, for this project proposal I will not only provide the outline of my project and process, but also some of the evidence that informs my interpretations of the data. In the following section I:
-* Establish that Pittsburgh's policies of redlining and industrial zoning forced Black families to live in areas with higher pollution.
+For this project proposal I will provide the outline of my project and process, but also some of the evidence that informs my interpretations of the data. In the following section I:
+* Substantiate how Pittsburgh's policies of redlining and industrial zoning forced Black families to live in areas with higher pollution.
 * Identify that many of the landscapes which were sculpted by these policies remain intact today.
 * Note that because of this, Black Pittsburghers have worse health outcomes.
 
