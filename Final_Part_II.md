@@ -60,6 +60,16 @@ The Hazelwood Initiative was new to me, I was not familiar with that. It was kin
 #### Q6. What would you change, if you could change one thing?
 Maybe this is just me, but I might change the white border with the yellow border differently. Making the white take up more space might make the background less distracting.
 
+### In Class Crit
+#### What Worked?
+They really liked the flow of the presentation.
+#### What Didn't?
+Increase size of labels for flourish chart, the donut chart font was too small.
+Maybe add some text to frame the graphs more extensively.
+#### What questions arose?
+Curiosity about the impact this has had on people. Maybe add some more contextual information that frames the charts.
+#### What new inspiration arose?
+Could you include a news article that points out the headline for certain charts? Add some multimedia components, potentially.
 
 ### References
 [^1]: Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, accessed September 25, 2022, https://dsl.richmond.edu/panorama/redlining/#loc=11/40.442/-80.172&city=pittsburgh-pa&text=downloads
