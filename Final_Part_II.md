@@ -9,15 +9,24 @@ From here, I surveyed three of my classmates to determine:
 * The target audience
 * The success of my piece in targeting that audience
 * Insights about data viz clarity etc.
+
+| Question | Student, 20's | Student, 30's | Student, 20's |
+| --- | --- | --- | --- |
+| How did this make you feel as you read this piece? | Interested, and like they wanted to learn more about the issue. |
+| What do you think is going on here? | There are clearly lasting health impacts from policies made in the past 100 years. Those health impacts clearly have repercussions which disproportionately affect Black communities. And we need solutions to remove harmful pollutants from where people live. |
+| Did you feel like you were looking at the graphs? |
+| Did any graphs feel unnecessary or confusing? |
+| Did anything surprise you? |
+| What would you change, if you could change one thing? |
 ### Student, 20s
 #### Q1. How did this make you feel as you read this piece?
-Interested, and like they wanted to learn more about the issue.
+
 #### Q2. What do you think is going on here?
-There are clearly lasting health impacts from policies made in the past 100 years. Those health impacts clearly have repercussions which disproportionately affect Black communities. And we need solutions to remove harmful pollutants from where people live.
+
 #### Q3. Did you feel like you were looking at the graphs?
-Yes, they were helpful.
+
 #### Q4. Did any graphs feel unnecessary or confusing?
-There was one map that was difficult to read. When I got to the map with the factories, I zoomed out because of the cursor. Some of the graphs needed more labeling.
+
 #### Q5. Did anything surprise you?
 I am well aware of the relationship between NO2 and asthma but was more unaware that it was related to industrial production. Moreso associated NO2 with home sources of pollution and cars and things like that.
 #### Q6. What would you change, if you could change one thing?
