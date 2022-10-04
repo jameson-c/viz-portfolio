@@ -13,6 +13,7 @@ From here, I surveyed three of my classmates to determine how I was interacting 
 For this piece, I was hoping to target Carnegie Mellon Students, as I get the sense that many students at CMU do not have connections with the community here. Carnegie Mellon itself is located in an area that profited from redlining: nearby Shadyside and other neighborhoods were either given an 'A' or 'B' grade and there are few industrial plants near campus. So, all three of my interviews were with fellow CMU students of different racial/gender identities. I hoped to see what people with different life experiences might glean from the piece. These interviews turned out to be quite useful.
 
 After showing the wireframe/draft story, I asked the following questions:
+
 | Question | Student, 20's | Student, 30's | Student, 20's |
 | --- | --- | --- | --- |
 | How did this make you feel as you read this piece? | Interested, and like they wanted to learn more about the issue. | It made me feel sad. It was disappointing to see the stats and think about it. But then I started to feel hopeful when the Justice Is Possible section came up. | Bummed about America. Not until the very end did I feel hopeful but even then it seems like a larger issue than this small organization can provide. |
