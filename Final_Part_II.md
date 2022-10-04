@@ -12,8 +12,8 @@ From here, I surveyed three of my classmates to determine:
 
 | Question | Student, 20's | Student, 30's | Student, 20's |
 | --- | --- | --- | --- |
-| How did this make you feel as you read this piece? | Interested, and like they wanted to learn more about the issue. |
-| What do you think is going on here? | There are clearly lasting health impacts from policies made in the past 100 years. Those health impacts clearly have repercussions which disproportionately affect Black communities. And we need solutions to remove harmful pollutants from where people live. |
+| How did this make you feel as you read this piece? | Interested, and like they wanted to learn more about the issue. | It made me feel sad. It was disappointing to see the stats and think about it. But then I started to feel hopeful when the Justice Is Possible section came up. | Bummed about America. Not until the very end did I feel hopeful but even then it seems like a larger issue than this small organization can provide. |
+| What do you think is going on here? | There are clearly lasting health impacts from policies made in the past 100 years. Those health impacts clearly have repercussions which disproportionately affect Black communities. And we need solutions to remove harmful pollutants from where people live. | Basically you are trying to publicize this organization that is working against environmental racism. Trying to motivate people to become a part of the solution. | It seemed like the transitions really stood out, the asthma rates really stood out as far as disparate outcomes. |
 | Did you feel like you were looking at the graphs? |
 | Did any graphs feel unnecessary or confusing? |
 | Did anything surprise you? |
