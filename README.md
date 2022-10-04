@@ -23,9 +23,5 @@ See the [following page](https://jameson-c.github.io/viz-portfolio/assignment_3_
 ## Final Project
 For this assignment, we prepared some initial ideas and viz concepts for the final project. My topic will be environmental justice in Pittsburgh.
 
-See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Part_I.html) for this redesign.
-### Part 1
-
-### Part 2
-
-### Part 3
+See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Part_I.html) for Part I.
+See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Part_II.html) for Part II.
