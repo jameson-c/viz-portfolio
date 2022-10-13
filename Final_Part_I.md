@@ -1,5 +1,9 @@
-# Final: Calling for Environmental Justice in Pittsburgh
+# Final Part III: Calling for Environmental Justice in Pittsburgh
 To return to the front page, click [here](https://jameson-c.github.io/viz-portfolio).
+
+Visit [Part II](https://jameson-c.github.io/viz-portfolio/Final_Part_II.html) to see the user research informing this project.
+
+Visit [Part III](https://jameson-c.github.io/viz-portfolio/Final_Part_III.html) to see the final project.
 ## Background and Summary
 For this project proposal I will provide the outline of my project and process, but also some of the evidence that informs my interpretations of the data. In the following section I:
 * Substantiate how Pittsburgh's policies of redlining and industrial zoning forced Black families to live in areas with higher pollution.
