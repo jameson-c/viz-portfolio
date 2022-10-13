@@ -21,8 +21,8 @@ For this assignment, we were asked to redesign a chart that we felt could be imp
 See the [following page](https://jameson-c.github.io/viz-portfolio/Assignments/assignment_3_4.html) for this redesign.
 
 ## Final Project
-For this assignment, we prepared some initial ideas and viz concepts for the final project. My topic will be environmental justice in Pittsburgh.
+My topic was environmental justice in Pittsburgh. For this project I explored the intersection of modern factory locations/pollution exposure with racist policies.
 
-See the [following page](https://jameson-c.github.io/viz-portfolio/Final Project/Final_Part_I.html) for Part I.
-See the [following page](https://jameson-c.github.io/viz-portfolio/Final Project/Final_Part_II.html) for Part II.
-See the [following page](https://jameson-c.github.io/viz-portfolio/Final Project/Final_Part_III.html) for Part III.
+* See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Project/Final_Part_I.html) for Part I, conceptualization.
+* See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Project/Final_Part_II.html) for Part II, user research.
+* See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Project/Final_Part_III.html) for Part III, the final product.
