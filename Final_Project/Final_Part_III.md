@@ -1,9 +1,9 @@
 # Final Part III: Calling for Environmental Justice in Pittsburgh
 To return to the front page, click [here](https://jameson-c.github.io/viz-portfolio).
 
-Visit [Part I](https://jameson-c.github.io/viz-portfolio/Final_Part_I.html) to see the conceptualization of this project.
+Visit [Part I](https://jameson-c.github.io/viz-portfolio/Final_Project/Final_Part_I.html) to see the conceptualization of this project.
 
-Visit [Part II](https://jameson-c.github.io/viz-portfolio/Final_Part_II.html) to see user research informing the final project.
+Visit [Part II](https://jameson-c.github.io/viz-portfolio/Final_Project/Final_Part_II.html) to see user research informing the final project.
 
 ## Summarizing the Process
 ### Part I: Conceptualization
