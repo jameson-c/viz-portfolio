@@ -1,6 +1,8 @@
 # Final Part II: Calling for Environmental Justice in Pittsburgh
 To return to the front page, click [here](https://jameson-c.github.io/viz-portfolio).
+
 Visit [Part I](https://jameson-c.github.io/viz-portfolio/Final_Part_I.html) to see the conceptualization of this project.
+
 Visit [Part III](https://jameson-c.github.io/viz-portfolio/Final_Part_III.html) to see the final project.
 ## Wireframes and Storyboards
 Using the graphs I considered in Part I of this process, I created the following draft:
