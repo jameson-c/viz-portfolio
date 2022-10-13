@@ -25,3 +25,4 @@ For this assignment, we prepared some initial ideas and viz concepts for the fin
 
 See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Part_I.html) for Part I.
 See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Part_II.html) for Part II.
+See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Part_III.html) for Part III.
