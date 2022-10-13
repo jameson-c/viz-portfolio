@@ -1,4 +1,4 @@
-# Final Part III: Calling for Environmental Justice in Pittsburgh
+# Final Part I: Calling for Environmental Justice in Pittsburgh
 To return to the front page, click [here](https://jameson-c.github.io/viz-portfolio).
 
 Visit [Part II](https://jameson-c.github.io/viz-portfolio/Final_Project/Final_Part_II.html) to see the user research informing this project.
