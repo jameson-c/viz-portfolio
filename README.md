@@ -13,16 +13,16 @@ The following sections contain the work I completed for this course.
 ## Assignment 1: Visualizing government debt in 2020
 For this assignment, we were asked to use [Flourish](https://flourish.studio/) to generate some visualizations tracking government debt during 2020, a year of global pandemic, economic crisis, and governmental responses to those respective shocks. I figured it would be an interesting year to explore.
 
-See the [following page](https://jameson-c.github.io/viz-portfolio/assignment_1.html) for this exploration.
+See the [following page](https://jameson-c.github.io/viz-portfolio/Assignments/assignment_1.html) for this exploration.
 
 ## Assignment 2
 For this assignment, we were asked to redesign a chart that we felt could be improved. I made the brave choice to critique a bad chart that I made in my work with the Congressional Research Service.
 
-See the [following page](https://jameson-c.github.io/viz-portfolio/assignment_3_4.html) for this redesign.
+See the [following page](https://jameson-c.github.io/viz-portfolio/Assignments/assignment_3_4.html) for this redesign.
 
 ## Final Project
 For this assignment, we prepared some initial ideas and viz concepts for the final project. My topic will be environmental justice in Pittsburgh.
 
-See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Part_I.html) for Part I.
-See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Part_II.html) for Part II.
-See the [following page](https://jameson-c.github.io/viz-portfolio/Final_Part_III.html) for Part III.
+See the [following page](https://jameson-c.github.io/viz-portfolio/Final Project/Final_Part_I.html) for Part I.
+See the [following page](https://jameson-c.github.io/viz-portfolio/Final Project/Final_Part_II.html) for Part II.
+See the [following page](https://jameson-c.github.io/viz-portfolio/Final Project/Final_Part_III.html) for Part III.
